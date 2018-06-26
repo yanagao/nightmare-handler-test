@@ -2,4 +2,5 @@
 
 ## 如何使用
 
-运行``npm test
+运行
+``` npm test
