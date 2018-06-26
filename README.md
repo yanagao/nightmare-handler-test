@@ -3,4 +3,5 @@
 ## 如何使用
 
 运行
-``` npm test
+``` npm 
+$ npm test
